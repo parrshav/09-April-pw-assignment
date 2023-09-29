@@ -1,0 +1,35 @@
+Q1. What is Bayes' theorem?
+Bayes' theorem is a fundamental principle in probability theory and statistics that describes how to update the probability of a hypothesis based on new evidence.
+Mathematically, Bayes' theorem is expressed as:
+P(A/B)=P(B/A)*P(A)/P(B)
+  where
+  P(A/B)= is the posterior probability of event A given event B.
+  P(B/A)=is the probability of event B given event A.
+  P(A)= is the prior probability of event A.
+  P(B)= is the probability of event B.
+  Q2. What is the formula for Bayes' theorem?
+  P(A/B)=P(B/A)*P(A)/P(B)
+  where
+  P(A/B)= is the posterior probability of event A given event B.
+  P(B/A)=is the probability of event B given event A.
+  P(A)= is the prior probability of event A.
+  P(B)= is the probability of event B.
+  Q3. How is Bayes' theorem used in practice?
+  Bayes' theorem is applied in various fields to make informed decisions and predictions based on probabilistic reasoning. Here are a few practical applications:
+
+Spam Filtering:
+Bayes' theorem is used in email spam filtering. It helps classify whether an email is spam or not by analyzing the probability of certain words or features appearing in spam and non-spam emails.
+
+Medical Diagnosis:
+Bayes' theorem is utilized in medical diagnosis to calculate the probability of a patient having a particular disease given certain symptoms. It combines the prior probability of the disease with the probability of observing those symptoms if the patient has the disease.
+
+Machine Learning and Natural Language Processing:
+In machine learning, particularly in text classification tasks, Naive Bayes algorithm utilizes Bayes' theorem to classify text based on the occurrence of words or features.
+Financial Analysis:
+In finance, Bayes' theorem can be used for risk assessment and portfolio management. It helps update the probability of certain financial events based on new market data.
+
+
+Bayes' theorem and conditional probability are closely related concepts in probability theory, with Bayes' theorem being a fundamental result derived from conditional probability.
+
+Conditional probability is the probability of an event occurring given that another event has already occurred. Mathematically, for events A and B, it's denoted as 
+P(A∣B), which represents the probability of event A occurring given that event B has occurred.
